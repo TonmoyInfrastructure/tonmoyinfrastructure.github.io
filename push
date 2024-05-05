@@ -23,7 +23,7 @@ check_commitizen() {
 push_to_github() {
     git add .
     git cz
-    git push origin master
+    git push origin main
 }
 
 # Main Function
