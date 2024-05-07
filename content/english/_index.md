@@ -1,20 +1,21 @@
 ---
 # Banner
 banner:
-  title: "The Ultimate Starter Template You Need To Start Your Hugo Project"
+  title: "Empowering Innovation🚀, Together: Open Source Solutions for Tomorrow's Software🔥."
   content: "Hugoplate is a free starter template built with Hugo and TailwindCSS, providing everything you need to jumpstart your Hugo project and save valuable time."
   image: "/images/banner.png"
   button:
     enable: true
-    label: "Get Started For Free"
-    link: "https://github.com/zeon-studio/hugoplate"
+    label: "Explore Our GitHub Repositories"
+    link: "https://github.com/TonmoyInfrastructure"
 
 # Features
 features:
-  - title: "What's Included in Hugoplate"
+  - title: "DokuKraft"
     image: "/images/service-1.png"
-    content: "Hugoplate is a comprehensive starter template that includes everything you need to get started with your Hugo project. What's Included in Hugoplate"
+    content: "**DokuKraft** is an open source markdown(.md) based documentation generator. It is free for both **personal** and **commercial** use."
     bulletpoints:
+      - "Written in **Rust**"
       - "10+ Pre-build pages"
       - "95+ Google Pagespeed Score"
       - "Build with Hugo and TailwindCSS for easy and customizable styling"
@@ -22,8 +23,8 @@ features:
       - "SEO-optimized for better search engine rankings"
       - "**Open-source and free** for personal and commercial use"
     button:
-      enable: false
-      label: "Get Started Now"
+      enable: true
+      label: "Installation & Documentation"
       link: "#"
 
   - title: "Discover the Key Features Of Hugo"

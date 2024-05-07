@@ -58,7 +58,7 @@
             <ul>
               {{ range .bulletpoints }}
                 <li class="relative mb-4 pl-6">
-                  <i class="fa fa-check absolute left-0 top-1.5"></i>
+                  <i class="fa-solid fa-hand-point-right absolute left-0 top-1.5"></i>
                   {{ . | markdownify }}
                 </li>
               {{ end }}
@@ -67,7 +67,7 @@
               {{ if .enable }}
                 <a class="btn btn-primary mt-6" href="{{ .link | absURL }}">
                   {{ .label }}
-                  <i class="fa fa-arrow-right pl-2"></i>
+                  <i class="fa fa-book pl-2"></i>
                 </a>
               {{ end }}
             {{ end }}
